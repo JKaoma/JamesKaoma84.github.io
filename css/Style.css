@@ -1,0 +1,90 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-size: 15px;
+  background-color: transparent;
+}
+
+#showcase{
+  min-height: 400%;
+  padding: 20px;
+  margin-bottom: 10px;
+  background: url("../img/Organic.jpg")no-repeat center;
+  background-size: cover;
+}
+
+#showcase h2{
+  text-align: center;
+  color: white;
+  font-weight: light;
+  padding-top: 20px;
+}
+
+#showcase p{
+  text-align: center;
+  padding: 10px
+}
+#About p{
+  font-size: 25px;
+  color:black;
+  text-align: justify;
+  font-weight:normal;
+  border-radius: 9px;
+  margin-bottom: 10px;
+  margin: 10px;
+}
+#About h1{
+  font-size: 25px;
+  text-align: center;
+
+}
+#working h1{
+  font-size: 25px;
+  text-align: center;
+
+}
+#working img{
+  border-radius: 7px;
+  margin: 10px;
+}
+#contain h1{
+  font-size: 25px;
+  text-align: center;
+  margin: 20px;
+}
+#feed h1{
+  font-size: 25px;
+  padding: 10px;
+  text-align: center;
+  margin: 20px;
+}
+.container mid-img{
+  margin:0 auto;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+.container h1{
+  padding: 0;
+  color: black;
+}
+.container p{
+  color: black;
+
+}
+.navbar {
+  margin-bottom: 0;
+  border-bottom: 3px;
+  border-radius: 0;
+  border-bottom: green 3px solid;
+}
+
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  background-color: black;
+  text-align: center;
+}
